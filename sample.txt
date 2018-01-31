@@ -1,3 +1,5 @@
 Hello friends, welcome to my house.
 I hope no one has anything else to add.
+<<<<<<< HEAD
 If they do they are out of luck.
+=======
